@@ -1,5 +1,4 @@
-命令行常用命令
---------------
+## 命令行常用命令
 
 `whoami` - 命令行里的"hello world"  
 `ls(dir)/cd/mkdir/rmdir` 查看/进入/创建/删除目录  
