@@ -1,0 +1,53 @@
+## 推荐插件
+
+- Alignment
+- apiDoc Autocompletion
+- AutoFileName
+- Babel
+- Better CoffeeScript
+- Better Completion
+- BracketHighlighter
+- Color Highlighter
+- ColorPicker
+- CSS3
+- CSScomb
+- DocBlockr
+- Emmet
+- File History
+- FileDiffs
+- Git
+- GitGutter
+- Gitignore
+- GitStatus
+- HTML-CSS-JS Prettify
+- HTML5
+- JavaScript Completions
+- JavaScriptNext - ES6 Syntax
+- JsFormat
+- JSON Reindent
+- Laravel Blade Highlighter
+- LESS
+- Markdown Extended
+- Markdown Preview
+- Meteor Autocomplete (TernJS)
+- Monokai Extended
+- Oceanic Next Color Scheme
+- __Package Control__
+- PlainTasks
+- ReactJS
+- Sass
+- SCSS
+- Seti_UI
+- SFTP
+- SideBarEnhancements
+- SublimeCodeIntel
+- SublimeLinter
+- SublimeLinter-annotations
+- SublimeLinter-csslint
+- SublimeLinter-jshint
+- SublimeLinter-jsxhint
+- Syntax Highlighting for PostCSS
+- Theme - Soda
+- TrailingSpaces
+- TypeScript
+- Vue Syntax Highlight
